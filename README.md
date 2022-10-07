@@ -1,6 +1,7 @@
 <h1 align="center"> Script de visualização de vagas do ciee </h1>
 
 **Descrição**
+
 Este algoritmo entra no site do ciee (https://web.ciee.org.br/estudante) e mostra as vagas de Estágio disponíveis, uma vaga por aba do navegador.
 
 **Alertas** 
