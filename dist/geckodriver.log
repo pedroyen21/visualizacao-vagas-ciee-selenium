@@ -1,0 +1,1490 @@
+1659008672396	geckodriver	INFO	Listening on 127.0.0.1:53327
+1659008675456	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilexR4fAS"
+1659008676763	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53328
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilexR4fAS\\search.json.mozlz4", (void 0)))
+1659008678670	Marionette	INFO	Listening on port 53349
+Read port: 53349
+1659008678717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53328/devtools/browser/be4ec49c-92ed-4833-91a2-86cdc70e111a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1659008696277	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=weekly&client=google-maps-lite&libraries=geometry%2Csearch&language=pt-BR&region=US&callback=__mapsCb, line 103: Error: Could not load "marker".
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.pt_BR.mh7epIGfqIs.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,ppl,log,std,b/am=2gGcpAAAAAAC/rt=j/d=1/rs=ACT90oGYUmJfImiQgbn28KzvOj8N7XrLMQ, line 3373: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1659010160418	Marionette	INFO	Stopped listening on port 53349
+1659115675175	geckodriver	INFO	Listening on 127.0.0.1:58231
+1659115678261	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilek2Q7gr"
+1659115679731	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58232
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilek2Q7gr\\search.json.mozlz4", (void 0)))
+1659115681829	Marionette	INFO	Listening on port 58254
+Read port: 58254
+1659115681863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58232/devtools/browser/d14aba95-804c-42e4-8bee-cec4069e46c3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659115691578	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659115692367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659116410439	Marionette	INFO	Stopped listening on port 58251659116412837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilex5QhZz"
+1659116413144	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58435
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilex5QhZz\\search.json.mozlz4", (void 0)))
+1659116414634	Marionette	INFO	Listening on port 58460
+DevTools listening on ws://localhost:58435/devtools/browser/fb3519fb-7b01-4c27-a39a-cce4f26f69ea
+Read port: 58460
+1659116414709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659116425151	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659116425892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659117797506	Marionette	INFO	Stopped listening on port 58460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1659117798570	geckodriver	INFO	Listening on 127.0.0.1:58590
+1659117801654	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileviEMBS"
+1659117801963	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58591
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileviEMBS\\search.json.mozlz4", (void 0)))
+1659117803741	Marionette	INFO	Listening on port 58613
+DevTools listening on ws://localhost:58591/devtools/browser/790cd9dc-2c2d-4b09-ba14-db068c8df6b0
+Read port: 58613
+1659117803861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659117835594	geckodriver	INFO	Listening on 127.0.0.1:58667
+1659117838667	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58668" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofiletG7d3K"
+1659117838954	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58668
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofiletG7d3K\\search.json.mozlz4", (void 0)))
+1659117840361	Marionette	INFO	Listening on port 58694
+Read port: 58694
+DevTools listening on ws://localhost:58668/devtools/browser/8ce88cf6-9395-4c8b-94d1-8ec913ac3630
+1659117840454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1659117857066	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659117932574	Marionette	INFO	Stopped listening on port 58694
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1659308369201	geckodriver	INFO	Listening on 127.0.0.1:60808
+1659308372258	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile6wqEhH"
+1659308374212	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60809
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile6wqEhH\\search.json.mozlz4", (void 0)))
+1659308377230	Marionette	INFO	Listening on port 60833
+Read port: 60833
+1659308377318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60809/devtools/browser/18cd7aff-4d24-4283-9c52-cc51e14a90b6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659308391762	Marionette	INFO	Stopped listening on port 60833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659308401101	geckodriver	INFO	Listening on 127.0.0.1:60885
+1659308404167	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileHC1ciE"
+1659308404575	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60886
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileHC1ciE\\search.json.mozlz4", (void 0)))
+1659308406057	Marionette	INFO	Listening on port 60912
+Read port: 60912
+1659308406087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:60886/devtools/browser/a348a8c2-fab6-4ac1-9a50-ab1981a474f6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659308416673	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659308417431	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1659308424903	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659308425701	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659308547523	Marionette	INFO	Stopped listening on port 60912
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1659723121252	geckodriver	INFO	Listening on 127.0.0.1:54245
+1659723124301	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileWWqzZD"
+1659723130875	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54246
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileWWqzZD\\search.json.mozlz4", (void 0)))
+1659723151351	Marionette	INFO	Listening on port 54289
+Read port: 54289
+1659723151741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:54246/devtools/browser/a8444726-89ad-4285-a0ff-194ef60665ba
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1659723165272	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1659723173687	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659724257240	Marionette	INFO	Stopped listening on port 54289
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1660181699870	geckodriver	INFO	Listening on 127.0.0.1:50774
+1660181702938	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileA2Gtt4"
+1660181704705	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50775
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileA2Gtt4\\search.json.mozlz4", (void 0)))
+1660181707687	Marionette	INFO	Listening on port 50799
+Read port: 50799
+1660181707812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:50775/devtools/browser/eb1e9f90-ad6f-4c4f-90a2-548bd9e95c2d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1660181725240	Marionette	INFO	Stopped listening on port 50799
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660181730684	geckodriver	INFO	Listening on 127.0.0.1:50856
+1660181733755	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile0mOyNX"
+1660181734119	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:50857
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile0mOyNX\\search.json.mozlz4", (void 0)))
+1660181735668	Marionette	INFO	Listening on port 50878
+DevTools listening on ws://localhost:50857/devtools/browser/24e319f2-01c9-4e3e-8bce-97ac0b5c1dda
+Read port: 50878
+1660181735749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1660181746070	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660181746815	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660181762634	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1660181763426	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1660182287555	Marionette	INFO	Stopped listening on port 50878
+1660182625838	geckodriver	INFO	Listening on 127.0.0.1:56610
+1660182628881	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileEXQrv4"
+1660182629425	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56611
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileEXQrv4\\search.json.mozlz4", (void 0)))
+1660182631360	Marionette	INFO	Listening on port 56655
+DevTools listening on ws://localhost:56611/devtools/browser/2611684f-9ce1-4ae3-83d4-8e3384b00b91
+Read port: 56655
+1660182631434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1660182649966	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1660183346104	Marionette	INFO	Stopped listening on port 56655
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1660329721765	geckodriver	INFO	Listening on 127.0.0.1:52313
+1660329724851	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileo5sOrB"
+1660329727804	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52314
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileo5sOrB\\search.json.mozlz4", (void 0)))
+1660329731929	Marionette	INFO	Listening on port 52341
+Read port: 52341
+1660329732102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52314/devtools/browser/4049c9ce-5bb7-4583-b9fd-39a1e3bc4da1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1660329742354	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660329743118	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1660330003421	Marionette	INFO	Stopped listening on port 52341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1660330008069	geckodriver	INFO	Listening on 127.0.0.1:52467
+1660330011108	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile0FoLOq"
+1660330011498	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52468
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile0FoLOq\\search.json.mozlz4", (void 0)))
+1660330013086	Marionette	INFO	Listening on port 52493
+DevTools listening on ws://localhost:52468/devtools/browser/5552582e-b871-42fa-a3ac-3beea934b27b
+Read port: 52493
+1660330013176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1660330030131	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://portal.ciee.org.br/para-voce/vagas/, line 509: ReferenceError: autoplay is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sistemafibra.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sistemafibra.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sistemafibra.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://tag.navdmp.com/tm48586.js, line 1: TypeError: nvg48586.load is not a function
+JavaScript error: https://portal.ciee.org.br/para-voce/vagas/, line 509: ReferenceError: autoplay is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sistemafibra.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sistemafibra.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.sistemafibra.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://tag.navdmp.com/tm48586.js, line 1: TypeError: nvg48586.load is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://tag.navdmp.com/tm48586.js, line 1: TypeError: nvg48586.load is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sne.iel.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Fallback WR to SW-WR + D3D11
+out of memory: 0x0000000000100000 bytes requested
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorManager::Msg_PCompositorBridgeConstructor) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PCompositorWidgetConstructor) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorWidget::Msg_Initialize) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_Initialize) Channel error: cannot send/recv
+
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+[GFX1-]: Failed to create remote compositor
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_UpdateVar) Channel error: cannot send/recv
+
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_ShutdownVR) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: RunMessage(msgname=PCompositorWidget::Msg_ObserveVsync) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: RunMessage(msgname=PCompositorWidget::Msg_ObserveVsync) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: RunMessage(msgname=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_ShutdownSync) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_ShutdownSync) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_ShutdownSync) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=Ab
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_ShutdownSync) Channel error: cannot send/recv
+
+n
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_ShutdownSync) Channel error: cannot send/recv
+
+ormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_ShutdownSync) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PWebRenderBridgeConstructor) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_EnsureConnected) Channel error: cannot send/recv
+
+[GFX1-]: Fai
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PWebRenderBridgeConstructor) Channel error: cannot send/recv
+
+l
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_EnsureConnected) Channel error: cannot send/recv
+
+ed 
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PWebRenderBridgeConstructor) Channel error: cannot send/recv
+
+as los
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PWebRenderBridgeConstructor) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PWebRenderBridgeConstructor) Channel error: cannot send/recv
+
+t
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_EnsureConnected) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_EnsureConnected) Channel error: cannot send/recv
+
+ WebRe
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_EnsureConnected) Channel error: cannot send/recv
+
+[GFX1-]:
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PWebRenderBridgeConstructor) Channel error: cannot send/recv
+
+n Fa
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_EnsureConnected) Channel error: cannot send/recv
+
+i[dlGerBridgeChild.
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+FX1-]: Fail[ee[GF[GFX1-]: Failed as lost WebRenderBridgeChild.
+d as lost
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+d as lo[GFX1-]:st X1-]:  WebReWGFX1-]: Failed as lost WebRenderBridgeChild.
+Rec
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+nderBridgeChild.[GFX1-]: Receive IPC close wiebRenderth re
+eive IPCBridg ason=AbnormalShu
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+ close with reason=Atdown
+eChild.
+[F
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+GbaFX1-]: Receive IPC cnormalShutdownlose with[GFX1iled as lost  reason=AbnormalShutdown
+-]: 
+WebRenderBridgeChild.
+Receive IPC close
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+ with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_ShutdownSync) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PCompositorBridge::Msg_PWebRenderBridgeConstructor) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PWebRenderBridge::Msg_EnsureConnected) Channel error: cannot send/recv
+
+[GFX1-]: Failed as lost WebRenderBridgeChild.
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PCompositorBridge::Msg_NotifyChildRecreated Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Fallback remains SW-WR
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: ShmSegmentsWriter failed to allocate chunk #0
+[GFX1-]: ShmSegmentsWriter failed to allocate chunk #0
+out of memory: 0x0000000000002E40 bytes requested
+[GFX1-]: ShmSegmentsWriter failed to allocate chunk #0
+[GFX1-]: ShmSegmentsWriter failed to allocate chunk #0
+out of memory: 0x0000000000001178 bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+1660341924865	geckodriver	INFO	Listening on 127.0.0.1:50015
+1660341927935	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileaLNRIV"
+1660342022317	geckodriver	INFO	Listening on 127.0.0.1:50094
+1660342025397	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilevDYwRn"
+1660342025906	Marionette	INFO	Marionette enabled
+1660342025911	Marionette	INFO	Listening on port 50104
+WebDriver BiDi listening on ws://localhost:50095
+Read port: 50104
+1660342026256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilevDYwRn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50095/devtools/browser/e7e6560e-3591-4124-93cc-b045fe13be2a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1660342045027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660344931999	Marionette	INFO	Stopped listening on port 50104
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660786960750	geckodriver	INFO	Listening on 127.0.0.1:63449
+1660786963858	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63450" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileguGQHe"
+1660786964936	Marionette	INFO	Marionette enabled
+1660786964947	Marionette	INFO	Listening on port 63459
+WebDriver BiDi listening on ws://localhost:63450
+Read port: 63459
+1660786965235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileguGQHe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63450/devtools/browser/ad2671a1-0e90-4fc2-bb5e-861534992915
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1660786978018	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1660786978777	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1660787099907	Marionette	INFO	Stopped listening on port 63459
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661166071333	geckodriver	INFO	Listening on 127.0.0.1:49626
+1661166074419	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile3zZimB"
+1661166077175	Marionette	INFO	Marionette enabled
+1661166077185	Marionette	INFO	Listening on port 49636
+WebDriver BiDi listening on ws://localhost:49627
+Read port: 49636
+1661166077492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile3zZimB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49627/devtools/browser/f381195c-b0f3-4b06-8d99-b0dad61ebc29
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1661166097650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661166184177	Marionette	INFO	Stopped listening on port 49636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661222876231	geckodriver	INFO	Listening on 127.0.0.1:59894
+1661222879390	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilemH8nJV"
+1661222880848	Marionette	INFO	Marionette enabled
+1661222880854	Marionette	INFO	Listening on port 59904
+WebDriver BiDi listening on ws://localhost:59895
+Read port: 59904
+1661222881041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilemH8nJV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59895/devtools/browser/5dfa8a04-04a9-491b-bc91-7b2d678f1284
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1661222892144	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661223273412	Marionette	INFO	Stopped listening on port 59904
+1661692318510	geckodriver	INFO	Listening on 127.0.0.1:64761
+1661692321584	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilel3CRw7"
+1661692323477	Marionette	INFO	Marionette enabled
+1661692323483	Marionette	INFO	Listening on port 64772
+WebDriver BiDi listening on ws://localhost:64762
+Read port: 64772
+1661692323892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilel3CRw7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64762/devtools/browser/04fcb47b-f05f-4f25-a70d-814be45443a0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1661692337045	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661692779304	Marionette	INFO	Stopped listening on port 64772
+1661692784062	geckodriver	INFO	Listening on 127.0.0.1:65077
+1661692787092	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileDXK17t"
+1661692787480	Marionette	INFO	Marionette enabled
+1661692787487	Marionette	INFO	Listening on port 65102
+WebDriver BiDi listening on ws://localhost:65078
+Read port: 65102
+1661692787642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileDXK17t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65078/devtools/browser/e89d4479-76c1-4001-954e-771bbf1c3ed8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1661692800901	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661692801731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661692920194	Marionette	INFO	Stopped listening on port 65102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661692940239	geckodriver	INFO	Listening on 127.0.0.1:64361
+1661692943271	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilePrdkBI"
+1661692943700	Marionette	INFO	Marionette enabled
+1661692943708	Marionette	INFO	Listening on port 64372
+Read port: 64372
+WebDriver BiDi listening on ws://localhost:64362
+1661692943887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilePrdkBI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64362/devtools/browser/1d8b3da1-2c53-4d69-a597-cd9ee4b739ab
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661692958035	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1661692963729	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661693118461	Marionette	INFO	Stopped listening on port 64372
+1661910096792	geckodriver	INFO	Listening on 127.0.0.1:60421
+1661910099838	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile2SwcRV"
+1661910102232	Marionette	INFO	Marionette enabled
+1661910102240	Marionette	INFO	Listening on port 60432
+WebDriver BiDi listening on ws://localhost:60422
+Read port: 60432
+1661910102598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile2SwcRV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60422/devtools/browser/dd74f194-ba6a-4872-a851-03f88a48eaa6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1661910118043	Marionette	INFO	Stopped listening on port 60432
+1661910123318	geckodriver	INFO	Listening on 127.0.0.1:60489
+1661910126376	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60490" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileEGrnk0"
+1661910126726	Marionette	INFO	Marionette enabled
+1661910126732	Marionette	INFO	Listening on port 60499
+WebDriver BiDi listening on ws://localhost:60490
+Read port: 60499
+1661910126879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileEGrnk0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60490/devtools/browser/c90c4b55-db09-4508-9369-1b8ff8bf5094
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1661910146162	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1661910215573	Marionette	INFO	Stopped listening on port 60499
+1662072925788	geckodriver	INFO	Listening on 127.0.0.1:64717
+1662072928869	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofiles6YJgL"
+1662072930240	Marionette	INFO	Marionette enabled
+1662072930249	Marionette	INFO	Listening on port 64727
+WebDriver BiDi listening on ws://localhost:64718
+Read port: 64727
+1662072930474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofiles6YJgL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64718/devtools/browser/b8532e7e-5c6d-423f-a5e9-9b71c4157880
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1662072942557	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+1662072943294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.ciee.org.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1662073281750	Marionette	INFO	Stopped listening on port 64727
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662920168014	geckodriver	INFO	Listening on 127.0.0.1:51703
+1662920171090	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileizVB4G"
+1662920172058	Marionette	INFO	Marionette enabled
+1662920172069	Marionette	INFO	Listening on port 51713
+WebDriver BiDi listening on ws://localhost:51704
+Read port: 51713
+1662920172329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileizVB4G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51704/devtools/browser/5dadc040-3aa5-4751-af54-dd59c73d3448
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1662920186054	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662920192241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662920321281	Marionette	INFO	Stopped listening on port 51713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663497338943	geckodriver	INFO	Listening on 127.0.0.1:56152
+1663497342000	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileu40v5e"
+1663497342589	Marionette	INFO	Marionette enabled
+1663497342595	Marionette	INFO	Listening on port 56164
+WebDriver BiDi listening on ws://localhost:56153
+Read port: 56164
+1663497342789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileu40v5e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56153/devtools/browser/583dd57e-5374-49ca-bd00-4c95470b5b6b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1663497395702	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1663497396465	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1663497553149	Marionette	INFO	Stopped listening on port 56164
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "56276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileTU4KJC"
+1663497504043	Marionette	INFO	Marionette enabled
+1663497504049	Marionette	INFO	Listening on port 56289
+WebDriver BiDi listening on ws://localhost:56276
+Read port: 56289
+1663497504196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileTU4KJC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56276/devtools/browser/6cc83849-646e-437c-976a-c9b54fd22e2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1663497515286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1663497516035	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663497554137	Marionette	INFO	Stopped listening on port 56289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663497558494	geckodriver	INFO	Listening on 127.0.0.1:56346
+1663497561554	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileYk0o2s"
+1663497561897	Marionette	INFO	Marionette enabled
+1663497561903	Marionette	INFO	Listening on port 56357
+WebDriver BiDi listening on ws://localhost:56347
+Read port: 56357
+1663497562058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileYk0o2s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56347/devtools/browser/7f56cd5e-6f62-4fad-8650-fcdeae50333f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1663497581890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663497582723	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663497705334	Marionette	INFO	Stopped listening on port 56357
+1663842905581	geckodriver	INFO	Listening on 127.0.0.1:59935
+1663842908670	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilelX8SDg"
+1663842911219	Marionette	INFO	Marionette enabled
+1663842911226	Marionette	INFO	Listening on port 59945
+WebDriver BiDi listening on ws://localhost:59936
+Read port: 59945
+1663842911650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilelX8SDg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59936/devtools/browser/806d1406-dca9-4e32-88ce-9c94f71147b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1663843021122	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663843153876	Marionette	INFO	Stopped listening on port 59945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663844551419	geckodriver	INFO	Listening on 127.0.0.1:60258
+1663844554476	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilewEToPJ"
+1663844554832	Marionette	INFO	Marionette enabled
+1663844554837	Marionette	INFO	Listening on port 60268
+WebDriver BiDi listening on ws://localhost:60259
+Read port: 60268
+1663844554974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilewEToPJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60259/devtools/browser/8fe6add5-7c12-4cac-847b-27793b7d5ae4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1663844565616	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1663844811365	Marionette	INFO	Stopped listening on port 60268
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663844818481	geckodriver	INFO	Listening on 127.0.0.1:60465
+1663844821521	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilePTiwbq"
+1663844821934	Marionette	INFO	Marionette enabled
+1663844821941	Marionette	INFO	Listening on port 60479
+WebDriver BiDi listening on ws://localhost:60466
+Read port: 60479
+1663844822292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilePTiwbq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60466/devtools/browser/dab058a6-5299-4aeb-9d30-ccb6838ac20d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1663844839479	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663844840273	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663844840989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663844983593	Marionette	INFO	Stopped listening on port 60479
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664241743591	geckodriver	INFO	Listening on 127.0.0.1:62644
+1664241746679	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilevDxLO2"
+1664241748183	Marionette	INFO	Marionette enabled
+1664241748194	Marionette	INFO	Listening on port 62654
+WebDriver BiDi listening on ws://localhost:62645
+Read port: 62654
+1664241748429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilevDxLO2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62645/devtools/browser/60f94baf-335a-43b6-bd86-83318a8cfe82
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664241776459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664241777205	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664245752316	Marionette	INFO	Stopped listening on port 62654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664245757328	geckodriver	INFO	Listening on 127.0.0.1:62975
+1664245760360	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileaaWUDA"
+1664245760799	Marionette	INFO	Marionette enabled
+1664245760804	Marionette	INFO	Listening on port 62989
+WebDriver BiDi listening on ws://localhost:62976
+Read port: 62989
+1664245760986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileaaWUDA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62976/devtools/browser/1a6f1f55-b55d-4c02-9145-d865f5a7028d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664245893989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664245894721	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664246019004	Marionette	INFO	Stopped listening on port 62989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664402218640	geckodriver	INFO	Listening on 127.0.0.1:61879
+1664402221692	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileWIclga"
+1664402222450	Marionette	INFO	Marionette enabled
+1664402222456	Marionette	INFO	Listening on port 61891
+WebDriver BiDi listening on ws://localhost:61880
+Read port: 61891
+1664402222680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileWIclga\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61880/devtools/browser/511e8c24-10c4-496e-8c14-4c0b7a8df5d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1664402241511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.pt_BR.UuZ545jWRpQ.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,ppl,log,std,b/am=2gGYAAEAAAAE/rt=j/d=1/rs=ACT90oFDDey9sFeMcl_vdqIE1ZL6ATut-g, line 3428: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+1664402620388	Marionette	INFO	Stopped listening on port 61891
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664562818031	geckodriver	INFO	Listening on 127.0.0.1:55931
+1664562821127	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileZn5EWi"
+1664562821866	Marionette	INFO	Marionette enabled
+1664562821872	Marionette	INFO	Listening on port 55941
+WebDriver BiDi listening on ws://localhost:55932
+Read port: 55941
+1664562822092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileZn5EWi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55932/devtools/browser/345765da-1a74-462f-a4e5-1e3fc9dcd0a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1664563514449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.pt_BR.FM6c4pLp0ss.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,ppl,log,std,b/am=2gEwAQQAAAAQ/rt=j/d=1/rs=ACT90oGTRNZfV6YoKsWaDM3CA6PuoxEWxw, line 3425: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1664563739297	Marionette	INFO	Stopped listening on port 55941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664619513821	geckodriver	INFO	Listening on 127.0.0.1:57135
+1664619516874	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57136" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileiL7JiU"
+1664619520938	Marionette	INFO	Marionette enabled
+1664619520951	Marionette	INFO	Listening on port 57146
+WebDriver BiDi listening on ws://localhost:57136
+Read port: 57146
+1664619521684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileiL7JiU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57136/devtools/browser/4416a478-494b-4c1c-bc4c-14ba8f48ec5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664620178106	Marionette	INFO	Stopped listening on port 57146
+1664620185839	geckodriver	INFO	Listening on 127.0.0.1:57275
+1664620189010	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile2RBcrl"
+1664620189565	Marionette	INFO	Marionette enabled
+1664620189570	Marionette	INFO	Listening on port 57285
+WebDriver BiDi listening on ws://localhost:57276
+Read port: 57285
+1664620189788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile2RBcrl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57276/devtools/browser/0d4caa00-a707-4586-9366-7b111f801e33
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664629168100	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1664629198125	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664629644491	geckodriver	INFO	Listening on 127.0.0.1:58953
+1664629647571	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileMGxU7f"
+1664629647944	Marionette	INFO	Marionette enabled
+1664629647950	Marionette	INFO	Listening on port 58965
+WebDriver BiDi listening on ws://localhost:58954
+Read port: 58965
+1664629648090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileMGxU7f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58954/devtools/browser/9592e51b-071b-4d02-9849-6b0a548ca9a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664629658517	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664629659260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1664629677548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.pt_BR.FM6c4pLp0ss.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,ppl,log,std,b/am=2gEwAQQAAAAQ/rt=j/d=1/rs=ACT90oGTRNZfV6YoKsWaDM3CA6PuoxEWxw, line 3425: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1664630123904	Marionette	INFO	Stopped listening on port 58965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664714793138	geckodriver	INFO	Listening on 127.0.0.1:56144
+1664714796176	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileIP4SYQ"
+1664714796903	Marionette	INFO	Marionette enabled
+1664714796909	Marionette	INFO	Listening on port 56154
+WebDriver BiDi listening on ws://localhost:56145
+Read port: 56154
+1664714797401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileIP4SYQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56145/devtools/browser/035184fb-bf14-4321-b93b-031286f16081
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1664714813230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1664714827353	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1664715056422	Marionette	INFO	Stopped listening on port 56154
+1664845443013	geckodriver	INFO	Listening on 127.0.0.1:53611
+1664845446085	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileSgz23s"
+1664845447865	Marionette	INFO	Marionette enabled
+1664845447874	Marionette	INFO	Listening on port 53625
+WebDriver BiDi listening on ws://localhost:53612
+Read port: 53625
+1664845448094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileSgz23s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53612/devtools/browser/b78a204e-4588-4483-a6ae-eef3d4989205
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1664846012013	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664846640652	Marionette	INFO	Stopped listening on port 53625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664888945543	geckodriver	INFO	Listening on 127.0.0.1:54028
+1664888948634	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilejaNx8E"
+1664888972825	geckodriver	INFO	Listening on 127.0.0.1:54087
+1664888975941	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54088" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilevz8MwF"
+1664888976261	Marionette	INFO	Marionette enabled
+1664888976266	Marionette	INFO	Listening on port 54097
+Read port: 54097
+WebDriver BiDi listening on ws://127.0.0.1:54088
+1664888976394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilevz8MwF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54088/devtools/browser/693b99ce-8a16-40c4-8a00-a3025d9ac54d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1664888994094	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.pt_BR.FM6c4pLp0ss.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=2gEwAQQAAAAQ/rt=j/d=1/rs=ACT90oGTRNZfV6YoKsWaDM3CA6PuoxEWxw, line 3425: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+1664889310543	Marionette	INFO	Stopped listening on port 54097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665010544506	geckodriver	INFO	Listening on 127.0.0.1:54753
+1665010547599	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileoHxRPV"
+1665010549900	Marionette	INFO	Marionette enabled
+1665010549910	Marionette	INFO	Listening on port 54785
+Read port: 54785
+WebDriver BiDi listening on ws://127.0.0.1:54754
+1665010550357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileoHxRPV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54754/devtools/browser/c0e22227-f904-457b-95b7-3a6acfbd8244
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665010568409	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1665010673507	Marionette	INFO	Stopped listening on port 54785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665010679835	geckodriver	INFO	Listening on 127.0.0.1:55015
+1665010682885	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilesrIOJB"
+1665010683241	Marionette	INFO	Marionette enabled
+1665010683247	Marionette	INFO	Listening on port 55031
+Read port: 55031
+WebDriver BiDi listening on ws://127.0.0.1:55016
+1665010683391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilesrIOJB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55016/devtools/browser/d8dcf92b-0729-4d5e-a7ad-e998c1c00770
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665010727230	Marionette	INFO	Stopped listening on port 55031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665010732813	geckodriver	INFO	Listening on 127.0.0.1:55142
+1665010735884	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileu2rGeZ"
+1665010736216	Marionette	INFO	Marionette enabled
+1665010736221	Marionette	INFO	Listening on port 55171
+Read port: 55171
+WebDriver BiDi listening on ws://127.0.0.1:55143
+1665010736387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileu2rGeZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55143/devtools/browser/fdcd80d0-a46e-4c24-bbc8-e95d5fd024f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1665010754449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1665010838163	Marionette	INFO	Stopped listening on port 55171
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665097683628	geckodriver	INFO	Listening on 127.0.0.1:53123
+1665097686706	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileWH9FcC"
+1665097688485	Marionette	INFO	Marionette enabled
+1665097688494	Marionette	INFO	Listening on port 53133
+Read port: 53133
+WebDriver BiDi listening on ws://127.0.0.1:53124
+1665097688737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileWH9FcC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53124/devtools/browser/fdc9886b-9d2e-4820-83de-718131446fd8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665097702596	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665097703339	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665097837419	Marionette	INFO	Stopped listening on port 53133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665097844891	geckodriver	INFO	Listening on 127.0.0.1:53379
+1665097847967	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile6sIxH4"
+1665097848295	Marionette	INFO	Marionette enabled
+1665097848301	Marionette	INFO	Listening on port 53393
+Read port: 53393
+WebDriver BiDi listening on ws://127.0.0.1:53380
+1665097848437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofile6sIxH4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53380/devtools/browser/49f7f54c-0ee5-42d1-ac04-8d0277f6cf95
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1665097871041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1665097910530	Marionette	INFO	Stopped listening on port 53393
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665177949510	geckodriver	INFO	Listening on 127.0.0.1:64920
+1665177952555	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileOjVBmV"
+1665177953549	Marionette	INFO	Marionette enabled
+1665177953555	Marionette	INFO	Listening on port 64930
+WebDriver BiDi listening on ws://127.0.0.1:64921
+Read port: 64930
+1665177953800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileOjVBmV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64921/devtools/browser/d7529483-6690-48eb-8e34-750ff73f4cf8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665178093784	Marionette	INFO	Stopped listening on port 64930
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "65035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilecH8Xa4"
+1665177989069	Marionette	INFO	Marionette enabled
+1665177989075	Marionette	INFO	Listening on port 65044
+Read port: 65044
+WebDriver BiDi listening on ws://127.0.0.1:65035
+1665177989208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilecH8Xa4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65035/devtools/browser/5308dc73-fc58-45dd-9268-881ee5c871df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665178000051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+1665178000779	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1665178097377	Marionette	INFO	Stopped listening on port 65044
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "65311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilerbBGEc"
+1665178037891	Marionette	INFO	Marionette enabled
+1665178037897	Marionette	INFO	Listening on port 65321
+Read port: 65321
+WebDriver BiDi listening on ws://127.0.0.1:65311
+1665178038031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofilerbBGEc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65311/devtools/browser/06724731-7111-4054-a05d-b230997b73d4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1665178056313	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1665178098181	Marionette	INFO	Stopped listening on port 65321
+1665178185319	geckodriver	INFO	Listening on 127.0.0.1:49282
+1665178188376	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileRgSo3Y"
+1665178188715	Marionette	INFO	Marionette enabled
+1665178188720	Marionette	INFO	Listening on port 49293
+Read port: 49293
+WebDriver BiDi listening on ws://127.0.0.1:49283
+1665178188887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pedro\\AppData\\Local\\Temp\\rust_mozprofileRgSo3Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49283/devtools/browser/113bf1a8-1a4f-4032-bb13-1cef33cd90e0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.ciee.org.br."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1665178227513	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1665178232705	Marionette	INFO	Stopped listening on port 49293
