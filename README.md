@@ -32,3 +32,5 @@ Set up no Windows:
   `pip install requirements.txt`
 
 - Troque os nomes dos valores da constante `INFO` do arquivo app.py para o seu usuário e sua senha.
+
+- Rode o arquivo "execute_app.exe"
